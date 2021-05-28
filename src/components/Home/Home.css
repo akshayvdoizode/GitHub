@@ -1,0 +1,22 @@
+.input {
+  justify-content: center;
+  display: flex;
+  margin-top: 10px;
+}
+.card {
+  justify-content: center;
+  display: flex;
+  margin-top: 10px;
+}
+
+.abc {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  margin-top: 5px;
+}
+
+.ui .button {
+  margin: 9px !important;
+}
